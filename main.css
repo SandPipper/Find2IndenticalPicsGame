@@ -1,0 +1,45 @@
+.grid {
+    margin: 10%;
+    margin-left: 20%;
+    border-radius: 5px;
+    position: inherit;
+}
+
+.grid td {
+    cursor:pointer;
+    width:90px; height:90px;
+    border:1px solid #ccc;
+    text-align:center;
+    font-family:sans-serif; font-size:13px;
+    border-radius: 5px;
+}
+
+.done {
+
+    background-color: #99cc66;
+
+}
+p {
+    float:left;
+    margin-top: 10%;
+    font-size: 40px bold;
+    margin-left: 10%;
+}
+
+img {
+    width: 90px; height: 90px;
+    margin: -4px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: -10%;
+    margin-left: 20%;
+    background-color: #2c7745;
+    width: 140px;
+    height: 80px;
+    border-radius: 5px;
+    float:left;
+
+}
